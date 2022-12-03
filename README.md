@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sarah-block-editor
-- 👀 I'm the owner of www.block-editor.io and the CMO at www.mulitverseDAO.org
-- 🌱 We offer whitepapers-as-a-service
+- 👀 I'm the owner of www.block-editor.io and content writer for various news outlets
+- 🌱 We offer whitepapers-as-a-service, content management, and more
 - 📫 Hit the website to reach out
